@@ -67,6 +67,8 @@ jupyter lab IPL_Comprehensive_Analysis.ipynb
 ## 📊 Project Architecture
 
 
+![Architecture](images/Project-architecture.png)
+
 
 ---
 
