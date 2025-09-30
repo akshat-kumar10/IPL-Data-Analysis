@@ -67,7 +67,7 @@ jupyter lab IPL_Comprehensive_Analysis.ipynb
 ## 📊 Project Architecture
 
 
-![Architecture](Project-architecture.png)
+![Architecture](images/architecture.png)
 
 
 ---
@@ -166,7 +166,9 @@ fig = make_subplots(rows=3, cols=3,
 
 ---
 
-## 📊 Sample Outputs
+## 📊 Output
+
+![Architecture](images/output.png)
 
 ### Statistical Analysis Results
 ```
