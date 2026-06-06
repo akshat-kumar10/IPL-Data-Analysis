@@ -1,4 +1,4 @@
-#🏏 IPL Comprehensive Data Analysis
+# 🏏 IPL Comprehensive Data Analysis
 
 > **A production-ready data science project showcasing advanced analytics, machine learning, and business intelligence on IPL cricket data (2008-2024)**
 
